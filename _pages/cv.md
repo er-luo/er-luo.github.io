@@ -15,32 +15,6 @@ redirect_from:
     </embed>
 </object>
 
-Education
-======
-* B.S. in Informatics and B.S. in Psychology, University of Washington, 2026 (expected)
-  * Minors: Data Science, Architecture 
-  * GPA: 3.86/4.0
-  * Psychology Honors Thesis: Evaluation of clustering algorithms for reproducing latent class model structures
 
-Work experience
-======
-* User Experience Intern (June 2024 - Present)
-  * Psychiatry and Behavioral Sciences, UW School of Medicine, Seattle, WA
-  * 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
