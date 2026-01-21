@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="/files/Erica Luo Grad CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/Erica Luo Grad CV.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Erica Luo Grad CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
 * B.S. in Informatics and B.S. in Psychology, University of Washington, 2026 (expected)
@@ -18,20 +24,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* User Experience Intern (June 2024 - Present)
+  * Psychiatry and Behavioral Sciences, UW School of Medicine, Seattle, WA
+  * 
   
 Skills
 ======
