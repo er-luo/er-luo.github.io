@@ -36,7 +36,14 @@
       "courses": []
     }
   ],
-  "skills": [ "HTML, CSS, React.js, JavaScript", "Focus groups, Interviews, Qualitative Data Processing"    
+  "skills": [
+    {
+     "Front-End Development": "HTML, CSS, React.js, JavaScript"
+    },
+    {
+     "Research": "Focus groups, Interviews, Qualitative Data Processing"
+    }
+    
   ],
   "languages": [],
   "interests": [],
