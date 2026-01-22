@@ -22,7 +22,8 @@
   },
   "work": [
     {
-      "title": "UX Research Intern"
+      "position": "UX Research Intern",
+      "startDate": "2024-06"
     }
   ],
   "education": [
@@ -33,35 +34,56 @@
       "startDate": "2022",
       "endDate": "2026 (Anticipated)",
       "gpa": 3.86,
-      "courses": []
+      "courses": ["Data Structures and Algorithms, Client-side Development, Database Management, Product Management, Scientific Theory and Methodology"]
     }
   ],
   "skills": [
     {
-    "name": "Programming",
-    "keywords": "Python, JavaScript, C++"
+    "name": "Research",
+    "keywords": "Usability research and evaluation, focus group facilitation, qualitative and quantitative data analysis, technical and academic writing, research documentation, project planning, experiemtnal design, survey design"
     },
     {
-    "name": "ML / Data",
-    "keywords": ["PyTorch", "TensorFlow", "Pandas"]
+    "name": "UX Design + Front-end Development",
+    "keywords": "Canva, Miro, Figma, HTML, CSS, React.js"
+    },
+    {
+    "name": "Programming Languages",
+    "keywords": "Python, JavaScript, Java"
+    },
+    {
+    "name": "ML + Data tools",
+    "keywords": "PyTorch, scikit-learn, JupyterHub, Tablau, GitHub, TensorFlow, Pandas, RStudio, SQL, MatLab"
     }
     
   ],
-  "languages": [],
+  "languages": [
+    {
+      "language":"English",
+      "fluency": "Native"
+    },
+    {
+      "language":"Mandarin",
+      "fluency": "Fluent"
+    },
+    {
+      "language":"Spanish",
+      "fluency": "Limited working proficency"
+    }
+  ],
   "interests": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Info 103",
+      "institution": "University of Washington, iSchool",
+      "date": "2023-09",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Info 201",
+      "institution": "University of Washington, iSchool",
+      "date": "2025-09",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
   ],
