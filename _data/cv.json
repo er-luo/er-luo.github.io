@@ -139,11 +139,11 @@
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "NextChapter",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://project-nextchapter-f60bb.web.app/",
+      "description": "NextChapter is a platform that combats overconsumption and builds community by promoting book swapping with the community. I was responsible for ensuring the Front End of the application was implemented correctly. <br/><img src='/images/next-chapter-home.jpg'>"
     }
   ]
 }

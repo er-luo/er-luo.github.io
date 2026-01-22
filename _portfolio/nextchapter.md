@@ -1,6 +1,6 @@
 ---
 title: "NextChapter"
-excerpt: "A Book Swapping Web App <br/><img src='/images/500x300.png'>"
+excerpt: "A Book Swapping Web App <br/><img src='/images/next-chapter-home.jpg'>"
 collection: portfolio
 ---
 
