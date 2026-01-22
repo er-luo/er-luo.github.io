@@ -45,6 +45,30 @@
         "Extracted, cleaned, and preprocessed complex survey and biometric datasets from 100+ participants using R (tidyverse) and Python (pandas, numpy), ensuring data quality and consistency for downstream analysis",
         "Managed study logistics including issuing participant reward payments, maintaining compliance with study protocols"
       ]
+    },
+    {
+      "position": "Accessibility Research Assistant",
+      "startDate": "March 2023",
+      "endDate": "August 2023",
+      "company": "Psychiatry and Behavioral Sciences, UW School of Medicine",
+      "summary": "Assisted in Garvey Institute for Brain Health Solutions-funded project  “Reducing barriers to accessing mental health care using a web-based program for young adults",
+      "highlights": 
+      [
+        "Transcribed and summarized the findings of 4 focus group recordings with young adults on issues of access to mental health care",
+        "Conducted thematic analysis on focus group recordings"
+      ]
+    },
+    {
+      "position": "Research Intern",
+      "startDate": "October 2021",
+      "endDate": "June 2022",
+      "company": "Psychiatry and Behavioral Sciences, UW School of Medicine",
+      "summary": "Coded and analyzed qualitative survey responses to identify thematic patterns for an NIH-funded intervention study on coping-motivated alcohol use",
+      "highlights": 
+      [
+        "Designed and implemented online recruitment advertisements to support participant enrollment",
+        "Beta tested web-based intervention modules and participant survey instruments, providing feedback to improve usability and data quality"
+      ]
     }
   ],
   "education": [
@@ -101,14 +125,14 @@
     {
       "course": "Info 103",
       "institution": "University of Washington, iSchool",
-      "date": "September-2023 - June-2025",
+      "date": "September-2023",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
       "course": "Info 201",
       "institution": "University of Washington, iSchool",
-      "date": "September-2025 - Present",
+      "date": "September-2025",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
