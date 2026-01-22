@@ -1,6 +1,6 @@
 ---
 title: "BirdSafe"
-excerpt: "A UX Research project to iteratively design a hyrbid retail/informational website for bird-proof windows. <br/><img src='/images/birdsafe-home.png' width='300' >"
+excerpt: "A UX Research project to iteratively design a hyrbid retail/informational website for bird-proof windows. <br/><img src='/images/birdsafe-home.png' width='300'>"
 collection: portfolio
 ---
 Role:  UX Researcher and Designer
