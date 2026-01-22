@@ -27,10 +27,24 @@
       "endDate": "Present",
       "company": "Psychiatry and Behavioral Sciences, UW School of Medicine",
       "summary": "Working on a digital budget tracker that serves as a intervention for alcohol usage",
-      "highlights": ["Conducted and facilitated 2 individual user interviews, applying qualitative methods to uncover user needs", "synthesized feedback to inform feature design and app improvements",
-"Analyzed qualitative data from 2 young adult focus groups, coding qualitative data to identify behavioral patterns, motivations, and barriers to engagement",
-"Co-authored and edited a research summary report for 4 focus groups, later presented at the 48th Annual Research Society on Alcohol Scientific Meeting in New Orleans, LA"
-]
+      "highlights": 
+      [
+        "Conducted and facilitated 2 individual user interviews, applying qualitative methods to uncover user needs", "synthesized feedback to inform feature design and app improvements",
+        "Analyzed qualitative data from 2 young adult focus groups, coding qualitative data to identify behavioral patterns, motivations, and barriers to engagement",
+        "Co-authored and edited a research summary report for 4 focus groups, later presented at the 48th Annual Research Society on Alcohol Scientific Meeting in New Orleans, LA"
+      ]
+    },
+    {
+      "position": "Data Processing Research Assistant",
+      "startDate": "November 2024",
+      "endDate": "July 2025",
+      "company": "Foster School of Buisness",
+      "summary": "Assisted in a multidisciplinary menstrual cycle study analyzing behavioral, hormonal, and mood fluctuations through longitudinal data collection",
+      "highlights": 
+      [
+        "Extracted, cleaned, and preprocessed complex survey and biometric datasets from 100+ participants using R (tidyverse) and Python (pandas, numpy), ensuring data quality and consistency for downstream analysis",
+        "Managed study logistics including issuing participant reward payments, maintaining compliance with study protocols"
+      ]
     }
   ],
   "education": [
@@ -38,8 +52,8 @@
       "institution": "University of Washington, Seattle",
       "area": "B.S. Informatics and B.S. Psychology",
       "studyType": "Bachelor's",
-      "startDate": "September 2022",
-      "endDate": "2026 (Anticipated)",
+      "startDate": "September-2022",
+      "endDate": "June-2026 (Anticipated)",
       "gpa": 3.86,
       "courses": ["Data Structures and Algorithms, Client-side Development, Database Management, Product Management, Scientific Theory and Methodology"]
     }
@@ -87,14 +101,14 @@
     {
       "course": "Info 103",
       "institution": "University of Washington, iSchool",
-      "date": "September 2023 - June 2025",
+      "date": "September-2023 - June-2025",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
       "course": "Info 201",
       "institution": "University of Washington, iSchool",
-      "date": "September 2025 - Present",
+      "date": "September-2025 - Present",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
