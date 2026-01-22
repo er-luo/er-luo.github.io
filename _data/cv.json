@@ -38,10 +38,12 @@
   ],
   "skills": [
     {
-     "Front-End Development": "HTML, CSS, React.js, JavaScript"
+    "name": "Programming",
+    "details": "Python, JavaScript, C++"
     },
     {
-     "Research": "Focus groups, Interviews, Qualitative Data Processing"
+    "name": "ML / Data",
+    "details": "PyTorch, TensorFlow, Pandas"
     }
     
   ],
