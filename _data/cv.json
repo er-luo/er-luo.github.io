@@ -39,11 +39,11 @@
   "skills": [
     {
     "name": "Programming",
-    "details": "Python, JavaScript, C++"
+    "keywords": "Python, JavaScript, C++"
     },
     {
     "name": "ML / Data",
-    "details": "PyTorch, TensorFlow, Pandas"
+    "keywords": ["PyTorch", "TensorFlow", "Pandas"]
     }
     
   ],
