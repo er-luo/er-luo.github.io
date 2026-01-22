@@ -23,7 +23,7 @@
   "work": [
     {
       "position": "UX Research Intern",
-      "startDate": "June-2024",
+      "startDate": "June 2024",
       "endDate": "Present",
       "company": "Psychiatry and Behavioral Sciences, UW School of Medicine",
       "summary": "Working on a digital budget tracker that serves as a intervention for alcohol usage",
@@ -38,7 +38,7 @@
       "institution": "University of Washington, Seattle",
       "area": "B.S. Informatics and B.S. Psychology",
       "studyType": "Bachelor's",
-      "startDate": "2022",
+      "startDate": "September 2022",
       "endDate": "2026 (Anticipated)",
       "gpa": 3.86,
       "courses": ["Data Structures and Algorithms, Client-side Development, Database Management, Product Management, Scientific Theory and Methodology"]
@@ -47,7 +47,12 @@
   "skills": [
     {
     "name": "Research",
-    "keywords": "Usability research and evaluation, focus group facilitation, qualitative and quantitative data analysis, technical and academic writing, research documentation, project planning, experiemtnal design, survey design"
+    "keywords": [
+      "Usability research and evaluation, focus group facilitation", 
+      "Qualitative and quantitative data analysis", 
+      "Technical and academic writing, research documentation", 
+      "Project planning, experimental design, survey design"
+      ]
     },
     {
     "name": "UX Design + Front-end Development",
@@ -82,14 +87,14 @@
     {
       "course": "Info 103",
       "institution": "University of Washington, iSchool",
-      "date": "2023-09",
+      "date": "September 2023 - June 2025",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
       "course": "Info 201",
       "institution": "University of Washington, iSchool",
-      "date": "2025-09",
+      "date": "September 2025 - Present",
       "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
