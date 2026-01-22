@@ -425,6 +425,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+
+    # Add Research
+    cv_json["research"] = parse_research(os.path.join(repo_root, "_research"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:
