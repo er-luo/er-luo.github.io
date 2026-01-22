@@ -28,15 +28,22 @@
   "education": [
     {
       "institution": "University of Washington, Seattle",
-      "area": "Double major in Informatics and Psychology",
+      "area": "B.S. Informatics and B.S. Psychology",
       "studyType": "Bachelor's",
       "startDate": "2022",
       "endDate": "2026 (Anticipated)",
+      "minors": "Data Science, Architecture",
       "gpa": 3.86,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+     "Front-End Development": "HTML, CSS, React.js, JavaScript",
+      "Research": "Focus groups, Interviews, Qualitative Data Processing"
+    }
+    
+  ],
   "languages": [],
   "interests": [],
   "teaching": [

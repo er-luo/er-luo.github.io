@@ -15,7 +15,7 @@ redirect_from:
  * Honors Psychology Research Project
  * Informatics Capstone Project
 
-![A cat coding at a computer](https://tenor.com/search/coding-gifs)
+![A cat coding at a computer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHYwOWJla3h0cmlvZWdlemF4cXNscHpkMGM5eGM3bmd1eGszbzRodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
 
  At-a-glance skills:
  * UX & Psychology Research (Study design, recruitment screening, focus group interviews)
