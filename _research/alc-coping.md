@@ -1,6 +1,6 @@
 ---
 title: "Development of an interactive, web-based drinking to cope intervention and tools to assess coping skill utilization"
-excerpt: "Intern for NIH funded study to create a digital intervention for individuals who drank alcohol to cope with negative emotions."
+excerpt: "Worked on a NIH funded study to create a digital intervention for individuals who drank alcohol to cope with negative emotions."
 collection: research
 year: 2021
 ---
