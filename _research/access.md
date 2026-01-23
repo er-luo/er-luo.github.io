@@ -1,6 +1,6 @@
 ---
 title: "Reducing barriers to accessing mental health care using a web-based program for young adults"
-excerpt: "Assisted in Garvey Institute for Brain Health Solutions-funded project to identify barriers young adults face when accessing mental healthcare. <br/><img src='/images/birdsafe-home.png' width='300'>"
+excerpt: "Assisted in Garvey Institute for Brain Health Solutions-funded project to identify barriers young adults face when accessing mental healthcare."
 collection: research
 ---
 Role:  Research Assistant
