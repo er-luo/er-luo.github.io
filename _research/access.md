@@ -2,6 +2,7 @@
 title: "Reducing barriers to accessing mental health care using a web-based program for young adults"
 excerpt: "Assisted in Garvey Institute for Brain Health Solutions-funded project to identify barriers young adults face when accessing mental healthcare."
 collection: research
+date: 2023
 ---
 Role:  Research Assistant
 Tools: Delve

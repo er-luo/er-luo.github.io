@@ -2,6 +2,7 @@
 title: "Hormone Fluctuations Across the Menstrual Cycle & Women's Experiences at Work"
 excerpt: "Assisted in a multidisciplinary menstrual cycle study analyzing behavioral, hormonal, and mood fluctuations through longitudinal data collection with health tracking variables and surveys. Administered payment logistics and processed wearable data."
 collection: research
+date: 2025
 ---
 Role:  Research Assistant
 Tools: RStudio, Python

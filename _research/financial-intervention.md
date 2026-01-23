@@ -2,6 +2,7 @@
 title: "Financial based digital intervention for alcoholism"
 excerpt: "I am currently assisting in the development of a financially based alcohol intervention for young adults."
 collection: research
+date: 2021
 ---
 Role:  Research Assistant
 
