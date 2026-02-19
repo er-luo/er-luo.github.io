@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- Hi, I'm Erica (she/her), a Senior at the University of Washington majoring in **Informatics** and **Psychology**. y. My work centers on developing and evaluating equitable mental health interventions through interdisciplinary research at the intersection of technology, design, and behavioral science.
+ Hi, I'm Erica (she/her), a Senior at the University of Washington majoring in **Informatics** and **Psychology**. My work centers on developing and evaluating equitable mental health interventions through interdisciplinary research at the intersection of technology, design, and behavioral science.
  
  I have research experience in clinical psychology, organizational psychology, and quantiative psychology. My training spans user experience research and design, front-end development, and machine learning–driven data analysis, allowing me to approach problems from both human-centered and technical perspectives. I am particularly interested in UX Design, UX Research, and Project Management roles that bridge research, product development, and implementation.
 
