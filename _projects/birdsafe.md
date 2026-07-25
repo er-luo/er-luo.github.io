@@ -20,12 +20,12 @@ After conducting research, we decided our best point of intervention was with th
 **Conceptualization**  
 We conceptualized three possible interventions:  
 •	An Educational Website on the risks large windows pose to birds  
-<img src='/images/birdsafe-concept1.png'>  
+<img src='/images/birdsafe-concept1.jpg'>  
 •	A Retail Website to create custom bird stickers  
-<img src='/images/birdsafe-concept2.png'>  
+<img src='/images/birdsafe-concept2.jpg'>  
 •	A Game where the user plays in the perspective of a bird and tries to identify if a window is present  
-<img src='/images/birdsafe-concept3test.png'>  
-<img src='/images/birdsafe-concept3results.png'>  
+<img src='/images/birdsafe-concept3test.jpg'>  
+<img src='/images/birdsafe-concept3results.jpg'>  
 
 
 **Prototyping**  
@@ -41,7 +41,7 @@ Our research found that while the website was effective at raising awareness abo
 **Second Iteration**
 We creatd a second iteration of our website based off of the feedback. The types of glass was rearranged on the home page, information was condensed, and some visual aids were added to clarify the information that was presented. 
 
-<img src='/images/birdsafe-concept3results.png'>  
+<img src='/images/birdsafe-concept3results.jpg'>  
 
 
 
