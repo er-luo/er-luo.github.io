@@ -3,7 +3,7 @@
     "name": "Erica Luo",
     "email": "eluo@uw.edu",
     "website": "https://er-luo.github.io/",
-    "summary": "Senior at the University of Washington majoring in Informatics and Psychology.",
+    "summary": "",
     "location": {
       "city": "Seattle",
       "countryCode": "US"
@@ -77,7 +77,7 @@
       "area": "B.S. Informatics and B.S. Psychology",
       "studyType": "Bachelor's",
       "startDate": "September-2022",
-      "endDate": "June-2026 (Anticipated)",
+      "endDate": "June-2026",
       "gpa": 3.86,
       "courses": ["Data Structures and Algorithms, Client-side Development, Database Management, Product Management, Scientific Theory and Methodology"]
     }
