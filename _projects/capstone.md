@@ -1,6 +1,6 @@
 ---
 title: "SkyHub (Capstone Project)"
-excerpt: "A Car Damage VLM Dashboard for Amazon Autos </br><img src='/images/skyhub-dashboard.jpg' width='300' >"
+excerpt: "A Car Damage VLM Dashboard for Amazon Autos <br/><img src='/images/skyhub-dashboard.jpg' width='300' >"
 collection: projects
 ---
 
